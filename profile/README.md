@@ -49,3 +49,8 @@ There is <b>NO LICENSE</b> available yet as this project is still being used for
 
 - This project is currently part of the <a href="https://www.dicoding.com/programs/bangkit">Bangkit Academy led by Google, Tokopedia, Gojek, and Traveloka</a> program and is being developed by our team as part of the Capstone Project.
 - The primary purpose of this project is to fulfill the requirements of the <b>Bangkit Academy 2024 Batch 2</b> program and to demonstrate the technical and collaborative skills we have acquired during the program.
+- The project is not yet intended for open-source release or commercial use. All rights and restrictions related to the project remain under the team's discretion until further notice.
+
+#### Author
+
+Github Organization: [EzTrip - C242-PS269 Capstone Team](https://github.com/C242-PS269)
