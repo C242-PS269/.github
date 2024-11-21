@@ -1,13 +1,27 @@
 <div align=center>
+  <h1>EzTrip: AI Travel Companion App in Your Hand!</h1>
   <img src="https://github.com/user-attachments/assets/2f45acea-59d4-4d0c-a3c8-e73d17c3ed53"/>
 </div>
 
+<div>
+    <img src="https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/Flask-%23000.svg?&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?&logo=google-cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-005571?&logo=fastapi"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?&logo=kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?&logo=android&logoColor=white" />
+    <h3 align=center>C242-PS269 Capstone Project: EzTrip</h3>
+<div>
 
-#### Capstone Project Overview
+
+#### Project Overview
 
 
 
-#### Project Key Features
+#### Key Features
 
 
 
