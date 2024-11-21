@@ -16,24 +16,38 @@
     <h3 align=center>C242-PS269 Capstone Project: EzTrip</h3>
 </div>
 
+#### Theme
+Digital Experiences: Revolutionizing Sustainable Tourism
+
+#### Research Questions
+1. What impact does a centralized, AI-powered travel app have on the overall experience and satisfaction of tourists exploring unfamiliar destinations?
+2. To what extent does a travel app simplify destination discovery and reduce planning challenges for tourists compared to traditional methods of information gathering?
+3. How do AI-driven recommendation systems in travel apps influence tourists' ability to uncover unique experiences and hidden gems that align with their interests?
 
 #### Project Overview
 
 
-
 #### Key Features
 
+#### Tech Stacks
 
+- TensorFlow: Used for creating and training machine learning models.
+- FastAPI: A modern, fast framework for building APIs and servers with Python.
+- Flask: A lightweight framework for building web servers and APIs.
+- Google Cloud Platform (GCP): Utilized for deploying APIs, servers, and managing cloud infrastructure.
+- VSCode: A versatile code editor for efficient development.
+- Android Studio: The primary IDE for designing and developing Android applications.
+- Postman: Used for testing and validating APIs during development.
 
 #### Repository
 
 <div align=center>
   
-| Repository  | Links |
-|---|---|
-| Cloud Computing | [Click here!]() |
-| Machine Learning | [Click here!]() |
-| Mobile Development | [Click here!]() |
+| Repository | Desc | Links |
+|---|---|---|
+| Cloud Computing | This repository contains resources for cloud computing, including server configurations, API documentation, and cloud configuration files. | [Click here!]() |
+| Machine Learning | This repository includes comprehensive resources for machine learning, featuring model documentation, ML models, and datasets. | [Click here!]() |
+| Mobile Development | This repository focuses on mobile app development, featuring Kotlin-based applications, UI/UX design resources, and other tools to build and enhance modern mobile apps. | [Click here!]() |
   
 </div>
 
@@ -64,6 +78,12 @@ There is <b>NO LICENSE</b> available yet as this project is still being used for
 - This project is currently part of the <a href="https://www.dicoding.com/programs/bangkit">Bangkit Academy led by Google, Tokopedia, Gojek, and Traveloka</a> program and is being developed by our team as part of the Capstone Project.
 - The primary purpose of this project is to fulfill the requirements of the <b>Bangkit Academy 2024 Batch 2</b> program and to demonstrate the technical and collaborative skills we have acquired during the program.
 - The project is not yet intended for open-source release or commercial use. All rights and restrictions related to the project remain under the team's discretion until further notice.
+
+#### Notes
+
+<p align=justify>
+Our team envisioned EzTrip as a tool covering destinations across Indonesia, but due to limited time and resources, we tried to focus only on Bali first. Bali’s popularity offers an ideal setting to implement our data-driven features like recommendations, sentiment analysis, and image recognition. This approach enables us to create a quality user experience while setting the foundation to expand to other areas in the future. We also apologize if some app components differ from initial plans; any adjustments were necessary and remain aligned with our theme of sustainable tourism, ensuring an engaging travel experience.
+</p>
 
 #### Author
 
