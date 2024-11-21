@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/2f45acea-59d4-4d0c-a3c8-e73d17c3ed53"/>
 </div>
 
-<div>
+<div align=center>
     <img src="https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54"/>
     <img src="https://img.shields.io/badge/Flask-%23000.svg?&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white"/>
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?&logo=kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?&logo=android&logoColor=white" />
     <h3 align=center>C242-PS269 Capstone Project: EzTrip</h3>
-<div>
+</div>
 
 
 #### Project Overview
