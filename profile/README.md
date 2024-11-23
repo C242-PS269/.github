@@ -45,9 +45,9 @@ Digital Experiences: Revolutionizing Sustainable Tourism
   
 | Repository | Desc | Links |
 |---|---|---|
-| Cloud Computing | This repository contains resources for cloud computing, including server configurations, API documentation, and cloud configuration files. | [Click here!]() |
-| Machine Learning | This repository includes comprehensive resources for machine learning, featuring model documentation, ML models, and datasets. | [Click here!]() |
-| Mobile Development | This repository focuses on mobile app development, featuring Kotlin-based applications, UI/UX design resources, and other tools to build and enhance modern mobile apps. | [Click here!]() |
+| Cloud Computing | This repository contains resources for cloud computing, including server configurations, API documentation, and cloud configuration files. | [Click here!](https://github.com/C242-PS269/eztrip-cloud) |
+| Machine Learning | This repository includes comprehensive resources for machine learning, featuring model documentation, ML models, and datasets. | [Click here!](https://github.com/C242-PS269/eztrip-machine-learning) |
+| Mobile Development | This repository focuses on mobile app development, featuring Kotlin-based applications, UI/UX design resources, and other tools to build and enhance modern mobile apps. | [Click here!](https://github.com/C242-PS269/eztrip-mobile) |
   
 </div>
 
