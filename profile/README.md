@@ -1,3 +1,8 @@
+<div align=justify>
+  <img src="https://img.shields.io/badge/EzTrip-3DDC84?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+</div>
+
 <div align=center>
   <h1>EzTrip: AI Travel Companion App in Your Hand!</h1>
   <img src="https://github.com/user-attachments/assets/2f45acea-59d4-4d0c-a3c8-e73d17c3ed53"/>
@@ -12,7 +17,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?&logo=kotlin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Android-3DDC84?&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?&logo=android&logoColor=white"/>
     <h3 align=center>C242-PS269 Capstone Project: EzTrip</h3>
 </div>
 
