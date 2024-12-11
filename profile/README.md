@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/Flask-%23000.svg?&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?&logo=google-cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FastAPI-005571?&logo=fastapi"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?&logo=kotlin&logoColor=white"/>
@@ -30,9 +29,15 @@ Digital Experiences: Revolutionizing Sustainable Tourism
 3. How do AI-driven recommendation systems in travel apps influence tourists' ability to uncover unique experiences and hidden gems that align with their interests?
 
 #### Project Overview
-
+<p align=justify>
+By leveraging AI-powered recommendation engines, EzTrip offers personalized suggestions based on users' interests and travel goals, streamlining the process of destination discovery, booking, and expense management. With an integrated expense tracker, users can monitor their travel budgets in real-time, making it easier to plan and control spending throughout their journey. Our team is focused on enhancing Indonesia’s tourism experience by making local insights accessible to global tourists and supporting sustainable tourism growth. This project seeks to solve real challenges in destination planning for foreign travelers by simplifying their access to curated travel information & budgeting.
+</p>
 
 #### Key Features
+- Sentiment Analysis: The system will classify user reviews into categories of positive, neutral, or negative, providing valuable insights into user sentiment and helping improve the overall experience.
+- Recommendations Systems: It will recommend tourist attractions, dining options, and accommodations tailored to the user’s preferences, or suggest similar experiences for a well-rounded and memorable trip.
+- Automatic Generating Itineraries: This feature will automatically generate personalized itineraries for users based on their budget and city preferences, enhancing their travel experience. It will suggest accommodations, tourist attractions, and local culinary delights, ensuring a seamless and enjoyable journey.
+- Expenses Tracker: The feature will help users manage their finances during their vacation in Bali, providing tools to track spending, set budgets, and receive recommendations for cost-effective activities and accommodations.
 
 #### Tech Stacks
 
