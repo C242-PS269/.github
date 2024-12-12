@@ -17,8 +17,12 @@
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?&logo=kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?&logo=android&logoColor=white"/>
-    <h3 align=center>C242-PS269 Capstone Project: EzTrip</h3>
+    <h3 align=center>C242-PS269 Capstone Project</h3>
+    <h3>EzTrip</h3>
+    <h4><a href=#>#TripAnywhereWithEase</a></h4>
 </div>
+
+---
 
 #### Theme
 Digital Experiences: Revolutionizing Sustainable Tourism
@@ -61,6 +65,8 @@ By leveraging AI-powered recommendation engines, EzTrip offers personalized sugg
   
 </div>
 
+---
+
 #### Contributing
 
 <div align=center>
@@ -94,6 +100,8 @@ There is <b>NO LICENSE</b> available yet as this project is still being used for
 <p align=justify>
 Our team envisioned EzTrip as a tool covering destinations across Indonesia, but due to limited time and resources, we tried to focus only on Bali first. Bali’s popularity offers an ideal setting to implement our data-driven features like recommendations, sentiment analysis, and image recognition. This approach enables us to create a quality user experience while setting the foundation to expand to other areas in the future. We also apologize if some app components differ from initial plans; any adjustments were necessary and remain aligned with our theme of sustainable tourism, ensuring an engaging travel experience.
 </p>
+
+---
 
 #### Author
 
