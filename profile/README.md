@@ -30,7 +30,7 @@ Digital Experiences: Revolutionizing Sustainable Tourism
 
 #### Project Overview
 <p align=justify>
-By leveraging AI-powered recommendation engines, EzTrip offers personalized suggestions based on users' interests and travel goals, streamlining the process of destination discovery, booking, and expense management. With an integrated expense tracker, users can monitor their travel budgets in real-time, making it easier to plan and control spending throughout their journey. Our team is focused on enhancing Indonesia’s tourism experience by making local insights accessible to global tourists and supporting sustainable tourism growth. This project seeks to solve real challenges in destination planning for foreign travelers by simplifying their access to curated travel information & budgeting.
+By leveraging AI-powered recommendation engines, EzTrip offers personalized suggestions based on users' interests and travel goals, streamlining the process of destination discovery, booking, and expense management. With an integrated expense tracker and generated itineraries, users can monitor their travel budgets in real-time, making it easier to plan and control spending throughout their journey. Our team is focused on enhancing Indonesia’s tourism experience by making local insights accessible to global tourists and supporting sustainable tourism growth. This project seeks to solve real challenges in destination planning for foreign travelers by simplifying their access to curated travel information & budgeting.
 </p>
 
 #### Key Features
