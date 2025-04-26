@@ -67,7 +67,17 @@ By leveraging AI-powered recommendation engines, EzTrip offers personalized sugg
 
 ---
 
-#### Contributing
+#### Active Contributor
+
+<div align=center>
+
+| Group | Name  | Bangkit ID | Roles | University |
+|---|---|---|---|---|
+| Cloud Computing | Naufal Rahfi Anugerah | C254B4KY3294 | Project Lead, Cloud Architect & BackEnd Engineer | Universitas Mercu Buana |
+
+</div>
+
+#### Legacy Contributor
 
 <div align=center>
 
@@ -100,6 +110,14 @@ There is <b>NO LICENSE</b> available yet as this project is still being used for
 <p align=justify>
 Our team envisioned EzTrip as a tool covering destinations across Indonesia, but due to limited time and resources, we tried to focus only on Bali first. Bali’s popularity offers an ideal setting to implement our data-driven features like recommendations, sentiment analysis, and image recognition. This approach enables us to create a quality user experience while setting the foundation to expand to other areas in the future. We also apologize if some app components differ from initial plans; any adjustments were necessary and remain aligned with our theme of sustainable tourism, ensuring an engaging travel experience.
 </p>
+
+---
+
+**Important Message from PM:**
+
+If you wish to continue contributing to this project, please request repository access from the Project Manager (PM), especially if you have previously contributed (legacy contributor). 
+
+If you are new to this project and would like to contribute, please reach out to the PM, introduce yourself, and request access.
 
 ---
 
